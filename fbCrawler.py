@@ -1,5 +1,5 @@
 '''
-2013301004 곽승혁; league3236; https://league-cat.tistory.com
+2013301004 곽승혁; https://github.com/league3236; https://league-cat.tistory.com
 '''
 import sys
 import urllib.request
